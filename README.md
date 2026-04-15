@@ -47,3 +47,8 @@ Welcome to the official documentation page of **Gemini Watermark Remover**! **Ge
 
 - **Is it safe to upload my private images?**  
   Absolutely. **Gemini Watermark Remover** respects your privacy. All uploaded images are processed securely and deleted shortly after processing.
+
+## 📰 Related Articles
+
+- [Gemini Watermark Remover](https://geminiwatermarkremover.im/)
+- [How to Remove Gemini Watermark](https://geminiwatermarkremover.im/blog/how-to-remove-gemini-watermark)
